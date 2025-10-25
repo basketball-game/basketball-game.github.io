@@ -27,7 +27,7 @@ Crawl-delay: 5
 
 # --- SITE DESCRIPTION ---
 
-> basketball-games.io is a dedicated platform for basketball enthusiasts, offering a variety of online basketball games. 
+> basketball-games.online is a dedicated platform for basketball enthusiasts, offering a variety of online basketball games. 
 > The website features arcade-style games and competitive basketball experiences suitable for players of all ages. 
 > Users can enjoy single-player games or challenge friends in multiplayer modes, all while honing their basketball skills. 
 > The site also provides information about the games, including instructions and tips, making it a comprehensive resource for both casual players and serious gamers.
