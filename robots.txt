@@ -10,4 +10,4 @@ User-agent: yeti
 Disallow: 
 User-agent: *
 Disallow: /cgi-bin/
-Sitemap: https://basketball-games.io/sitemap.xml
+Sitemap: https://basketball-games.online/sitemap.xml
