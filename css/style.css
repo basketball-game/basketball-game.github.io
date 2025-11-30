@@ -901,15 +901,11 @@ body.auth {
     --buttonMinWidth: 60px
 }
 
-#app-root:has(#pageFAQ) {
-    background: #fff url(https://a.poki-cdn.com/images/bg-diamante-large-top.svg) 50% -48px no-repeat
-}
 
 @media (min-width:991px) {
     #app-root:has(#pageFAQ) {
         background-attachment: scroll, scroll, scroll;
-        background-image: url(https://a.poki-cdn.com/images/bg-diamante-large-top.svg), url(https://a.poki-cdn.com/images/bg-diamante-small-left.svg), url(https://a.poki-cdn.com/images/bg-diamante-small-right.svg);
-        background-position: 50% -48px, 0 400px, 100% 600px;
+         background-position: 50% -48px, 0 400px, 100% 600px;
         background-repeat: no-repeat, no-repeat, no-repeat;
         background-size: auto, auto, auto
     }
